@@ -1,6 +1,7 @@
-# PIC10C, Winter 2020
+# Gold Miner Game 
 
-Final project for PIC10, a single player gold miner game built with C++ and Qt.<br />
+A single player gold miner game built with C++ and Qt.<br />
+Final project for PIC10C.
 
 Welcome Window: <br />
 
