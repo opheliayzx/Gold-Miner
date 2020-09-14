@@ -1,7 +1,6 @@
 # Gold Miner Game 
 
 A single player gold miner game built with C++ and Qt.<br />
-Final project for PIC10C.
 
 Welcome Window: <br />
 
